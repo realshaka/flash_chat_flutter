@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699200374417",
+    "firebase_url": "https://flash-chat-flutter-7886a.firebaseio.com",
+    "project_id": "flash-chat-flutter-7886a",
+    "storage_bucket": "flash-chat-flutter-7886a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699200374417:android:58beecb6af07293d75a130",
+        "android_client_info": {
+          "package_name": "com.tantan.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699200374417-1229207hh912v06dq12nsgev7ljlem8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC73u_jNafufzem_R3R3DDmdXSMOFJZa0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699200374417-1229207hh912v06dq12nsgev7ljlem8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699200374417-giibbdsplfalledupvjab88leuesusk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tantan.flashChatFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
